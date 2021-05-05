@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/levanta-pedido%E2%80%8B/static/css/main.a93197d6.chunk.css",
+    "main.js": "/levanta-pedido%E2%80%8B/static/js/main.e75d111a.chunk.js",
+    "main.js.map": "/levanta-pedido%E2%80%8B/static/js/main.e75d111a.chunk.js.map",
+    "runtime-main.js": "/levanta-pedido%E2%80%8B/static/js/runtime-main.8b1bbe77.js",
+    "runtime-main.js.map": "/levanta-pedido%E2%80%8B/static/js/runtime-main.8b1bbe77.js.map",
+    "static/js/2.e95c65eb.chunk.js": "/levanta-pedido%E2%80%8B/static/js/2.e95c65eb.chunk.js",
+    "static/js/2.e95c65eb.chunk.js.map": "/levanta-pedido%E2%80%8B/static/js/2.e95c65eb.chunk.js.map",
+    "index.html": "/levanta-pedido%E2%80%8B/index.html",
+    "static/css/main.a93197d6.chunk.css.map": "/levanta-pedido%E2%80%8B/static/css/main.a93197d6.chunk.css.map",
+    "static/js/2.e95c65eb.chunk.js.LICENSE.txt": "/levanta-pedido%E2%80%8B/static/js/2.e95c65eb.chunk.js.LICENSE.txt",
+    "static/media/no_cake.31bf571d.png": "/levanta-pedido%E2%80%8B/static/media/no_cake.31bf571d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b1bbe77.js",
+    "static/js/2.e95c65eb.chunk.js",
+    "static/css/main.a93197d6.chunk.css",
+    "static/js/main.e75d111a.chunk.js"
+  ]
+}
